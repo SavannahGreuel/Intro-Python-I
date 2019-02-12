@@ -61,15 +61,15 @@ Each directory inside the `src/` directory presents exercises revolving around a
 
 The suggested order for going through each of the directories is: 
 
-* `hello` -- Hello world
+<!-- * `hello` -- Hello world
 * `bignum` -- Print some big numbers
 * `datatypes` -- Experiment with type conversion
 * `modules` -- Learn to import from modules
 * `printing` -- Formatted print output
 * `lists` -- Python's version of arrays
 * `tuples` -- Immutable lists typically for heterogenous data
-* `slices` -- Accessing parts of lists
-* `comprehensions` -- List comprehensions
+* `slices` -- Accessing parts of lists -->
+<!-- * `comprehensions` -- List comprehensions -->
 * `dictionaries` -- Dictionaries
 * `functions` -- Functions
 * `args` -- Arguments and Keyword Arguments
